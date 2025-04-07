@@ -1,2 +1,4 @@
-# TryHackMe Walkthroughs
-Here I will be positing walk through for Try Hack Me. Created as a way for me to record what I have earned.
+# 🛡️ TryHackMe Walkthroughs
+
+Welcome! This repository contains my personal walkthroughs for [TryHackMe](https://tryhackme.com/). 🧠  
+Created as a way to document what I’ve learned and share insights from each challenge I complete. 🔍
